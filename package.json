@@ -1,0 +1,24 @@
+{
+  "name": "degen-bot",
+  "version": "1.0.0",
+  "description": "Bot For Degenerates",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Earleking/DEGEN-Bot.git"
+  },
+  "author": "Arek Fielding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Earleking/DEGEN-Bot/issues"
+  },
+  "homepage": "https://github.com/Earleking/DEGEN-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0"
+  }
+}
